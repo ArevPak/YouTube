@@ -1,0 +1,25 @@
+.top {
+	height: 50px;
+}
+.main {
+	height: 1000px;
+
+}
+.right {
+	height: 125px;
+}
+.logo{
+	height: 30px;
+}
+.input{
+	height: 30px;
+}
+.img{
+	height: 20px;
+}
+.img-w{
+	width: 20px;
+}
+.shap{
+	height: 40px;
+}
